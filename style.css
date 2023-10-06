@@ -84,6 +84,22 @@ body {
     .header__menu {
     margin-left:4vw !important;}
   }
+@media screen and (max-width: 1500px) {
+    .header__menu {
+    margin-left:3.5vw !important;}
+  }
+  @media screen and (max-width: 1400px) {
+    .header__menu {
+    margin-left:3vw !important;}
+  }
+  @media screen and (max-width: 1300px) {
+    .header__menu {
+    margin-left:2vw !important;}
+  }
+  @media screen and (max-width: 1200px) {
+    .header__menu {
+    margin-left:1vw !important;}
+  }
 @media screen and (max-width: 1200px) {
   .slider-nav {
     margin-left: -1vw !important; }
@@ -126,6 +142,9 @@ body {
         padding: 5px; }
 
 @media screen and (max-width: 1000px) {
+   .header__menu {
+    margin-left:0vw !important;}
+  }'
   .pre-1 {
     margin-left: 1vw !important; }
   .navigation--list--li {
