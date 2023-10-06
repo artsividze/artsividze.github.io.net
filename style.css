@@ -80,6 +80,10 @@ body {
   height: 2.7em;
   margin-left: 6vw; }
 
+@media screen and (max-width: 1650px) {
+    .header__menu {
+    margin-left:4vw !important;}
+  }
 @media screen and (max-width: 1200px) {
   .slider-nav {
     margin-left: -1vw !important; }
